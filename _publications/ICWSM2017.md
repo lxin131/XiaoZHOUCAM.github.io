@@ -6,4 +6,4 @@ venue: 'Proceedings of the International AAAI Conference on Web and Social Media
 paperurl: 'http://XiaoZHOUCAM.github.io/files/ICWSM2017.pdf'
 ---
 
-**Xiao Zhou**, Desislava Hristova, Anastasios Noulas, Cecilia Mascolo. 
+**Xiao Zhou**\*, Desislava Hristova, Anastasios Noulas, Cecilia Mascolo. 
