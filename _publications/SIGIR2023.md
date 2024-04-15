@@ -6,4 +6,4 @@ venue: 'Proceedings of the 46th International ACM SIGIR Conference on Research a
 paperurl: 'http://XiaoZHOUCAM.github.io/files/SIGIR2023.pdf'
 ---
 
-Zhenchao Wu, **Xiao Zhou**.
+Zhenchao Wu, **Xiao Zhou\***.
