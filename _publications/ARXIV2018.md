@@ -6,4 +6,4 @@ venue: 'arXiv preprint arXiv'
 paperurl: 'http://XiaoZHOUCAM.github.io/files/ARXIV2018.pdf'
 ---
 
-**Xiao Zhou**, Desislava Hristova, Anastasios Noulas, Cecilia Mascolo. 
+**Xiao Zhou**\*, Desislava Hristova, Anastasios Noulas, Cecilia Mascolo. 
