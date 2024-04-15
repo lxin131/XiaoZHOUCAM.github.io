@@ -6,4 +6,4 @@ venue: 'Proceedings of 28th International Joint Conference on Artificial Intelli
 paperurl: 'http://XiaoZHOUCAM.github.io/files/IJCAI2019.pdf'
 ---
 
-**Xiao Zhou**, Danyang Liu, Jianxun Lian, Xing Xie.
+**Xiao Zhou**\*, Danyang Liu, Jianxun Lian, Xing Xie.
