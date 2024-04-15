@@ -45,6 +45,8 @@ Work experience
 
 Research Funding
 ======
+* OPPO Guangdong Mobile Communication Co., Ltd., PI
+  * Project: Intelligent Health Management Assistant and Question-Answering System based on Large-scale Models 
 * National Natural Science Foundation of China (NSFC Grant No. 62106274), PI
   * Project: Early Detection and Prediction of Alzheimer's Disease Based on Multimodal Learning 
 * National Natural Science Foundation of China (NSFC Grant No. U2241212), Participant
@@ -74,5 +76,5 @@ Teaching
 Services
 ======
 * Reviewer for Journal: Nature Communications, Transactions on Intelligent Systems and Technology, Pervasive and Mobile Computing, EPJ Data Science
-* PC Member of Conference: TheWebConf, AAAI, IJCAI
+* SPC/PC Member of Conference: TheWebConf, AAAI, IJCAI, KDD, PAKDD
 * Executive Member of Ubiquitous Computing Committee at China Computer Federation (CCF)
