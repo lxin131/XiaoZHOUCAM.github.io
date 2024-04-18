@@ -1,6 +1,6 @@
 ---
 title: "Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation"
-excerpt: "<br/><video src='/images/KDD19.mp4'>"
+excerpt: "<br/><video src='/images/KDD19.mp4' controls />"
 collection: portfolio
 ---
 
