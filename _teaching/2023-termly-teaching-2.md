@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence for the Social Sciences"
+title: "Artificial Intelligence for the Social Sciences (General Education Core Course)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-termly-teaching-2
