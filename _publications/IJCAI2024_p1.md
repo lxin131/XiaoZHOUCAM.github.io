@@ -6,4 +6,4 @@ venue: 'Proceedings of 33rd International Joint Conference on Artificial Intelli
 paperurl: 'http://XiaoZHOUCAM.github.io/files/IJCAI24_CGAP.pdf'
 ---
 
-Zhuo Xu, ** Xiao Zhou**\*.
+Zhuo Xu, **Xiao Zhou**\*.
