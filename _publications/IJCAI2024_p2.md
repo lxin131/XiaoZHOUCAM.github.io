@@ -1,5 +1,5 @@
 ---
-title: "MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning"
+title: "MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning (coming soon)"
 collection: publications
 date: 2024-05-03
 venue: 'Proceedings of 33rd International Joint Conference on Artificial Intelligence (IJCAI)'
