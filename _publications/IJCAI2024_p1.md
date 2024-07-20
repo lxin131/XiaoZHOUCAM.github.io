@@ -1,5 +1,5 @@
 ---
-title: "CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling (coming soon)"
+title: "CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling"
 collection: publications
 date: 2024-05-03
 venue: 'Proceedings of 33rd International Joint Conference on Artificial Intelligence (IJCAI)'
