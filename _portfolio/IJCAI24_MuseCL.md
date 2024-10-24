@@ -1,6 +1,6 @@
 ---
 title: "MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning"
-excerpt: "<br/><video src='/images/musecl-demo_25m.mp4' controls />"
+excerpt: "<br/><video src='/images/musecl-demo_25m.mp4' controls width=200 />"
 collection: portfolio
 ---
 
